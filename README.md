@@ -8,7 +8,7 @@ Subcribe To Me On [Youtube](https://youtube.com/@goldlunacy?sub_confirmation=1)?
 There Are Setup Instructions On My Youtube Channel
 Or You Can Read The Following To Get A Basic Understanding
 
-##Setup
+## Setup
 
 1. Download LunacyVegas.zip
 2. Unzip
