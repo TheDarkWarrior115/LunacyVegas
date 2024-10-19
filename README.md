@@ -12,8 +12,9 @@ Or You Can Read The Following To Get A Basic Understanding
 
 1. Download LunacyVegas.zip
 2. Unzip
-3. Open index.html (Suggested Browser:Chrome)
-4. Click Button Labeled 'Select Vegas 1 Folder'
-5. Choose Vegas 1 Folder In The LunacyVegas Directory
-6. Click Button Labeled 'Select Vegas 2 Folder'
-7. Choose Vegas 2 Folder In The LunacyVegas Directory
+3. Open index.html (Needs A Modern Browser That Supports FileSystemAccess API : I Use Chrome)
+4. Click Button Labeled "Select Lunacy Vegas Folder";
+5. Select Folder Lunacy Vegas (The Folder You Downloaded And Unziped)
+6. Wait While The Magic Happens
+7. Page Will Refresh When Done
+8. :)
