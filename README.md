@@ -1,5 +1,5 @@
 # LunacyVegas-Currently Under Construction!
-Tom Clancy Rainbow 6 Vegas 1+2 Config Modder
+Tom Clancy Rainbow 6 Vegas 2 Config Modder
 
 Created By Gold Lunacy
 
