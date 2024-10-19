@@ -17,4 +17,3 @@ Or You Can Read The Following To Get A Basic Understanding
 5. Select Folder Lunacy Vegas (The Folder You Downloaded And Unziped)
 6. Wait While The Magic Happens
 7. Page Will Refresh When Done
-8. :)
